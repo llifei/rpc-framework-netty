@@ -1,5 +1,6 @@
 # rpc-framework-netty
 基于 Netty + Nacos + Kryo  的 RPC 框架实现。
+项目架构分析地址：https://kdocs.cn/l/cll3DnsFZbiF
 
 ## 功能描述
 
